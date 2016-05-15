@@ -1,6 +1,8 @@
 # JavaFX-Ray-Tracer
 A ray tracer with a JavaFX front end and Java backend.
 
+![alt tag](https://raw.githubusercontent.com/RollieRowland/JavaFX-Ray-Tracer/master/Screenshot%20(25).png)
+
 Supports:
  - Diffusion
  - Specularity
